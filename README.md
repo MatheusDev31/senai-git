@@ -1,3 +1,5 @@
 Readme de exemplo
 azendo uma
-alteração no readme
+
+embrei do comando: git status
+>>>>>>> tarefa/minha-primeira-branch
